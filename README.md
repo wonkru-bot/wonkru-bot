@@ -13,3 +13,6 @@ Country = "🇦🇿"
 
 
 <p align="center"><a href="https://github.com/a-dark-prince"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonkru-bot&theme=radical&layout=compact"></a></p> 
+
+## Currently Playing**
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://www.last.fm/user/AmaanAhmed)
