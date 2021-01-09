@@ -5,6 +5,11 @@ who_i_am == ['🆒️Dad_of_Public🆓️','PSYCHO-Developer💯','🅿️Coder'
 Age = "♾️"
 Country = "🇦🇿"
 ```
+
+## Currently Playing**
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://www.last.fm/user/AmaanAhmed)
+
+
 ## My GitHub Stats📈
 
 <details>
@@ -20,5 +25,3 @@ Country = "🇦🇿"
 
 <details>
   
-## Currently Playing**
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://www.last.fm/user/AmaanAhmed)
