@@ -19,9 +19,9 @@ Country = "🇦🇿"
 <summary>My GitHub Stats💛</summary>
 
 <br>
-<p align="center"><a href="https://github.com/a-dark-prince"><img src="https://github-readme-stats.vercel.app/api?username=wonkru-bot&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/wonkru-bot"><img src="https://github-readme-stats.vercel.app/api?username=wonkru-bot&show_icons=true&theme=radical"></a></p>
 
 
-<p align="center"><a href="https://github.com/a-dark-prince"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonkru-bot&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/wonkru-bot"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonkru-bot&theme=radical&layout=compact"></a></p> 
 
   
