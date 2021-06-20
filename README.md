@@ -14,8 +14,8 @@ Country = "🇦🇿"
 
 
 ## My GitHub Stats📈
-<b>
-<summary><b>
+
+<summary><b>Git Status</b></summary>
 <a>
   
   ![](https://github.com/wonkru-bot/stats/blob/master/generated/overview.svg)
