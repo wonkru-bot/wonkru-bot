@@ -17,11 +17,11 @@ Country = "🇦🇿"
 
 <summary><b>Git Status</b></summary>
 <a>
-  
+  <details>
   ![](https://github.com/wonkru-bot/stats/blob/master/generated/overview.svg)
   ![](https://github.com/wonkru-bot/stats/blob/master/generated/languages.svg)
  
 </a>
 </b></summary>
-  
+  <details>
 <b>
