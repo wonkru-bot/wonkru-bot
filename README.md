@@ -15,8 +15,6 @@ Country = "🇦🇿"
 
 ## My GitHub Stats📈
 
-<details>
-<summary>My GitHub Stats💛</summary>
 
 <a>
   
