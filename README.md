@@ -18,10 +18,11 @@ Country = "🇦🇿"
 <details>
 <summary>My GitHub Stats💛</summary>
 
-<br>
-<p align="center"><a href="https://github.com/wonkru-bot"><img src="https://github-readme-stats.vercel.app/api?username=wonkru-bot&show_icons=true&theme=radical"></a></p>
-
-
-<p align="center"><a href="https://github.com/wonkru-bot"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonkru-bot&theme=radical&layout=compact"></a></p> 
+<a>
+  
+  ![](https://github.com/wonkru-bot/stats/blob/master/generated/overview.svg)
+  ![](https://github.com/wonkru-bot/stats/blob/master/generated/languages.svg)
+ 
+</a>
 
   
