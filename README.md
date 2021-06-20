@@ -14,14 +14,14 @@ Country = "🇦🇿"
 
 
 ## My GitHub Stats📈
-<b>Git status
-
+<b>
+<summary><b>
 <a>
   
   ![](https://github.com/wonkru-bot/stats/blob/master/generated/overview.svg)
   ![](https://github.com/wonkru-bot/stats/blob/master/generated/languages.svg)
  
 </a>
-
+</b></summary>
   
 <b>
